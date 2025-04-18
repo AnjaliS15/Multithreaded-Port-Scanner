@@ -14,5 +14,5 @@ Prerequisites :
 I pondered on this project while learning this stuff in C++. There were a lot of new things I 
 learned while doing this project. 
 
-PS: This is NOT my original work, I did it to understand in depth how port scanner work and how real
-    implementation of socket programming and multithreading work.
+PS: This is NOT my original work and is present on YT, I did it to understand in depth how port scanner work 
+and how real implementation of socket programming and multithreading work.
